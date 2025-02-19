@@ -3,9 +3,8 @@
 
 :mailbox:  helioszjr@gmail.com 
 <br>
-:mortar_board:Agronomist Engineer 
-📍 Center of Applied Research in Agriculture
-🌱 Plant Molecular Breeding
+:mortar_board:Bachelor in Agronomy, current PhD student in Plant Molecular Breeding 
+📍 Center of Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM)
 <br>
 
 
