@@ -3,7 +3,7 @@
 
 :mailbox:  helioszjr@gmail.com // http://www.pgm.uem.br/
 <br>
-:mortar_board:🎓Bachelor in Agronomy, currently a PhD student in Genetics and Plant Breeding 
+:mortar_board:Bachelor in Agronomy, currently a PhD student in Genetics and Plant Breeding 
 📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM)
 <br>
 
