@@ -3,7 +3,8 @@
 
 :mailbox:  helioszjr@gmail.com // https://orcid.org/0000-0001-9683-0655
 <br>
-:mortar_board: Agronomist Engineer, Master in Genetics and Plant Breeding, currently a PhD student in Genetics and Plant Breeding.📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM).
+:mortar_board: Agronomist Engineer, Master in Genetics and Plant Breeding, currently a PhD student in Genetics and Plant Breeding.
+📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM).
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helioszjr&theme=aura_dark)
