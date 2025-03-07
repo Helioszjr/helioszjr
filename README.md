@@ -6,11 +6,11 @@
 :mortar_board: Agronomist Engineer, Master in Genetics and Plant Breeding, currently a PhD student in Genetics and Plant Breeding.📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM).
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helioszjr&theme=aura_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helioszjr&theme=aura_Orange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helioszjr&theme=aura_Orange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helioszjr&theme=aura_Orange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helioszjr&theme=aura_Orange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helioszjr&theme=aura_Orange&utcOffset=8)
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)](https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)
 
@@ -76,5 +76,5 @@ Here are some ideas to get you started:
 
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
 [![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers)
-Frontier's Loop
+
 
