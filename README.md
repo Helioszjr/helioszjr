@@ -8,9 +8,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helioszjr&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helioszjr&theme=aura_Orange)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helioszjr&theme=aura_Orange)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helioszjr&theme=aura_Orange&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helioszjr&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helioszjr&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helioszjr&theme=aura_dark&utcOffset=8)
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)](https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)
 
