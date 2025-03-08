@@ -84,3 +84,6 @@ Here are some ideas to get you started:
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
   <code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
 </div>
+
+<!--![snake gif](https://github.com/helioszjr/helioszjr/blob/output/github-contribution-grid-snake.svg) -->
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
