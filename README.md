@@ -1,7 +1,7 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 **I'm Helio Junior** :man_scientist: :brazil:
 
-:mailbox:  helioszjr@gmail.com // http://www.pgm.uem.br
+:mailbox:  helioszjr@gmail.com // http://lattes.cnpq.br/1667801399498296 // http://www.pgm.uem.br
 <br>
 :mortar_board: Agronomist Engineer, Master in Genetics and Plant Breeding, currently a PhD student in Genetics and Plant Breeding.📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM).
 <br>
