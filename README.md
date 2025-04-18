@@ -1,5 +1,5 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm Helio Junior** :man_scientist: :brazil:
+**Olá, eu sou helio. Bem-vindo ao meu portfólio. 👋** :man_scientist: :brazil:
 
 :mailbox:  helioszjr@gmail.com // http://lattes.cnpq.br/1667801399498296 // http://www.pgm.uem.br
 <br>
