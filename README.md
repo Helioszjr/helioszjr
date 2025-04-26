@@ -52,7 +52,6 @@
   <code><img width="40px" src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" title="LaTeX"/></code>
 </div>
 
-</p>
 
 <!--![snake gif](https://github.com/helioszjr/helioszjr/blob/output/github-contribution-grid-snake.svg) -->
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
