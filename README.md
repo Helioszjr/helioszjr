@@ -36,7 +36,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="180" 
-      style="padding-right: 10px;" 
+      style="padding-right: 5px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=helioszjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
