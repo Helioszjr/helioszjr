@@ -5,14 +5,6 @@
 :mortar_board: Agronomist Engineer, Master in Genetics and Plant Breeding, currently a PhD student in Genetics and Plant Breeding.📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM) and at the Common Bean Breeding and Genomics Laboratory.
 <br>
 
-<a href="https://www.buymeacoffee.com/kaxiii" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 39px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<table>
-  <tr>
-    <td><img alt="GitHub followers" src="https://img.shields.io/github/followers/kaxiii"></td>
-    <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kaxiii"></td>
-  </tr>
-</table>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helioszjr&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helioszjr&theme=aura_orange)
@@ -79,11 +71,12 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=helioszjr&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helioszjr&hide=TeX&layout=compact) 
-<td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
+
 
 
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
 [![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers)
+<td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
 
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
