@@ -78,7 +78,8 @@ Here are some ideas to get you started:
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=helioszjr&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helioszjr&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helioszjr&hide=TeX&layout=compact) 
+<td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
 
 
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
