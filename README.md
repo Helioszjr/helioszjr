@@ -12,7 +12,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helioszjr&theme=aura_orange)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helioszjr&theme=aura_orange&utcOffset=8)
 
-
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
 [![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers) <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
 
@@ -40,6 +39,7 @@
       style="padding-right: 5px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=helioszjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 </p>
 
 
