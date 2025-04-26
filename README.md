@@ -75,8 +75,7 @@ Here are some ideas to get you started:
 
 
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
-[![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers)
-<td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
+[![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers) <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
 
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
