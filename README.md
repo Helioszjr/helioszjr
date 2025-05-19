@@ -30,9 +30,9 @@ Aqui pratico um pouco de linguagem R, mas também compartilharei alguns scripts 
 
 <p align="center">
 <a href="https://github.com/Amatiussi">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Helioszjr&show_icons=true&theme=Solarized Dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Helioszjr&layout=compact&langs_count=8&theme=Solarized Dark"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Helioszjr&radius=16&theme=Solarized Dark&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Helioszjr&show_icons=true&theme=Nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Helioszjr&layout=compact&langs_count=8&theme=Nord"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Helioszjr&radius=16&theme=Nord&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"/>
 </a>
 </p>
 
