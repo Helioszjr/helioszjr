@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5EsYDnNDky)
 
 ## Ferramentas
-Aqui pratico um pouco de linguagem R, mas também compartilharei alguns scripts e projetos em outras linguagens à medida que eu for explorando.
+Aqui eu trabalho um pouco de linguagem R, mas também compartilharei alguns scripts e projetos em outras linguagens à medida que eu for explorando.
 <div align="center" style="display: inline_block"><br>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio"/></code>
