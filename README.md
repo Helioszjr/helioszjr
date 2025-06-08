@@ -13,10 +13,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helio-junior-919146150/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Helioszjr)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5EsYDnNDky)
-<a href="https://github.com/barbosawf">
+<div align="left">
+  <a href="https://github.com/barbosawf">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosawf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosawf&layout=compact&langs_count=7&theme=tokyonight"/>
-
+</div>
+    
 ## Ferramentas
 Aqui eu trabalho um pouco de linguagem R, mas também compartilharei alguns scripts e projetos em outras linguagens à medida que eu for explorando.
 <div align="center" style="display: inline_block"><br>
