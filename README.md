@@ -6,7 +6,8 @@
 <br>
 
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
-[![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers) <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
+[![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers) 
+<td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
 
 ## ✉ Contatos:
 
