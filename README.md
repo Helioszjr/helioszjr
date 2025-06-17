@@ -2,9 +2,8 @@
 
 :mailbox:  helioszjr@gmail.com // http://lattes.cnpq.br/1667801399498296 // http://www.pgm.uem.br
 <br>
-:mortar_board: Agronomist Engineer, Master in Genetics and Plant Breeding, currently a PhD student in Genetics and Plant Breeding.📍Center for Applied Research in Agriculture - Nupagri at the State University of Maringá (UEM) and at the Common Bean Breeding and Genomics Laboratory.
+:mortar_board: Engenheiro Agrônomo, Mestre em Genética e Melhoramento, atualmente Doutorando em Genética e Melhoramento na Universidade Estadual de Maringá (UEM).📍Faz parte do Núcleo de Pesquisa Aplicada em Agricultura - (Nupagri) e no Laboratório de Melhoramento e Genômica do Feijão.
 <br>
-
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
 [![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers) <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
 
