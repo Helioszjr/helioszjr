@@ -29,7 +29,7 @@ Aqui eu trabalho um pouco de linguagem R, mas também compartilharei alguns scri
 ## 📊 Estatísticas do Github
 
 <p align="center">
-<a href="https://github.com/Amatiussi">
+<a href="https://github.com/Helioszjr">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Helioszjr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Helioszjr&layout=compact&langs_count=8&theme=onedark"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Helioszjr&radius=16&theme=nord&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"/>
