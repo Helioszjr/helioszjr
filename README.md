@@ -2,7 +2,7 @@
 
 :mailbox:  helioszjr@gmail.com // http://lattes.cnpq.br/1667801399498296 // http://www.pgm.uem.br
 <br>
-:mortar_board: Engenheiro Agrônomo, Mestre em Genética e Melhoramento, atualmente é Doutorando em Genética e Melhoramento na Universidade Estadual de Maringá (UEM).📍Faz parte do Núcleo de Pesquisa Aplicada em Agricultura - (Nupagri) e no Laboratório de Melhoramento e Genômica do Feijão.
+:mortar_board: Engenheiro Agrônomo, Mestre em Genética e Melhoramento, atualmente é Doutorando em Genética e Melhoramento na Universidade Estadual de Maringá (UEM).📍Faz parte do Núcleo de Pesquisa Aplicada em Agricultura - (Nupagri) e do Laboratório de Melhoramento e Genômica do Feijão.
 <br>
 [![Twitter URL](https://img.shields.io/twitter/follow/Helioszjr?style=social)](https://twitter.com/intent/follow?screen_name=Helioszjr)
 [![GitHub Badge](https://img.shields.io/github/followers/helioszjr?style=social)](https://github.com/helioszjr?tab=followers) <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/helioszjr"></td>
