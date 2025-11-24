@@ -1,6 +1,6 @@
 ## Olá, eu sou Helio Junior. Bem-vindo ao meu portfólio. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> :man_scientist: :brazil: 
 
-:mailbox:  helioszjr@gmail.com // http://lattes.cnpq.br/1667801399498296 // http://www.pgm.uem.br
+:mailbox:  http://lattes.cnpq.br/1667801399498296 // http://www.pgm.uem.br
 <br>
 :mortar_board: Engenheiro Agrônomo, Mestre em Genética e Melhoramento, atualmente é Doutorando em Genética e Melhoramento na Universidade Estadual de Maringá (UEM).📍Faz parte do Núcleo de Pesquisa Aplicada em Agricultura - (Nupagri) e do Laboratório de Melhoramento e Genômica do Feijão.
 <br>
